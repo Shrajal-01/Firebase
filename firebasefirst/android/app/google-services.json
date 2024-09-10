@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750712726341",
+    "project_id": "firebasicfirst",
+    "storage_bucket": "firebasicfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750712726341:android:fa87b8d3afd7e81402142c",
+        "android_client_info": {
+          "package_name": "com.Shrajal.firebasefirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNEMbCLkwTiCj_a5nVj415hqvE2OsHjjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
